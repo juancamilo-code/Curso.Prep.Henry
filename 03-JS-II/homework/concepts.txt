@@ -1,0 +1,19 @@
+# Homework: Javascript II
+
+* ¿Qué es una declaración "for"?
+  Explicación: la declaración "for" nos permite establecer una estructura repetitiva o bucle.
+  Una instrucción o conjunto de instrucciones se repetirá n veces siempre y cuando se cumplan
+  ciertas condiciones.
+
+* ¿Qué son los operadores "&&", "||" y "!"?
+  Explicación: "&&", "||" y "!" son operadores lógicos, estos nos permiten agrupar y evaluar 
+  las expresiones booleanas (expresiones cuyos valores son verdadero o falso). 
+
+    && = evalua dos expresiones, devuelve verdadero si ambas expresiones son verdaderas. De
+    lo contrario, siempre devolverá falso.
+
+    || = evalua dos expresione, devuelve verdadero siempre que una de las dos expresiones 
+    sea verdadera. Solo devolverá falso si ambas expresiones son falsas.
+
+    ! = permite negar una expresión, si la expresión es verdadera, devolverá falso. Si la
+    expresión es falsa, devolverá verdadero.
