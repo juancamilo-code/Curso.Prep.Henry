@@ -169,16 +169,16 @@ describe('esPrimo(num)', function() {
 
 describe ('esVerdadero(valor)', function() {
   it('should return true if valor is true', function() {
-    expect(esVerdadero(true)).toBe(true);
+    expect(esVerdadero(true)).toBe("Soy verdadero");
   });
   it('should return false if valor is false', function() {
-    expect(esVerdadero(false)).toBe(false);
+    expect(esVerdadero(false)).toBe("Soy falso");
   });
 });
 
 describe ('tablaDelSeis()', function() {
   it('should return multiplication table of 6', function() {
-    expect(tablaDelSeis()).toEqual([0 , 6, 12, 18, 24, 30, 36, 42, 48, 54, 60]);
+    expect(tablaDelSeis()).toEqual([6, 12, 18, 24, 30, 36, 42, 48, 54, 60]);
   });
 });
 
