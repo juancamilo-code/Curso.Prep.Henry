@@ -1,0 +1,5 @@
+# Homework: Javascript III
+
+* ¿Qué son los Arrays?
+  Explicación: Los arrays o arreglos son colecciones de datos ordenados, estos datos pueden ser números,
+  strings, valores booleanos, undefined, null, variables e incluso otros arreglos.
