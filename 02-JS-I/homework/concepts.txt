@@ -1,0 +1,29 @@
+# Homework: Introducción a Javascript
+
+* ¿Qué es una Variable?
+  Explicación: una variable es un contenedor, por ejemplo una caja, a la cual podemos asignarle
+  un nombre y almacenar información dentro de ella. Dicha información podremos utilizarla a futuro.
+
+* ¿Qué es un string?
+  Explicación: un string es una secuencia de caracteres, la cual debe ir entre comillas.
+  Esta secuencia de caracteres puede contener números, letras, espacios en blanco, signos
+  de puntuación y otros símbolos.
+
+* ¿Qué son las funciones?
+  Explicación: una función es una pequeña parte de código que realiza una tarea específica.
+
+* ¿Qué es un argumento de una función?
+  Explicación: un argumento es una variable, que afecta o modifica el resultado de una función.
+
+* ¿Qué es la instrucción "return"?
+  Explicación: return es una instrucción que detiene la ejecución de una función y que devuelve
+  o no un valor.
+
+* ¿Qué es una declaración "if"?
+  Explicación: if es una declaración que nos permite establecer una condición, si la condición 
+  se cumple, ejecutara una acción determinada, en caso de que la condición no se cumpla,
+  ejecutará otra acción.
+
+* ¿Qué son los valores booleanos "true" y "false"?
+  Explicación: son los únicos valores que puede asumir un dato de tipo booleano, true o verdadero
+  y false o falso.
