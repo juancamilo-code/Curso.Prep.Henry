@@ -1,0 +1,41 @@
+# Homework: JavaScript IV
+
+* ¿Qué es una objeto?
+  Explicación: conjunto de propiedades. 
+
+* ¿Qué es una propiedad?
+  Explicación: asociación entre una clave y un valor. 
+
+  Ejemplo:
+   color: rojo
+   En donde color es la clave y rojo es el valor.
+
+* ¿Qué es un método?
+  Explicación: forma de llamar a una función definidad como propiedad dentro de un objeto.
+
+* ¿Qué es el blucle "for ... in "?
+  Explicación: blucle o loop que nos permite recorrer las propiedades de un objeto y realizar 
+  operaciones repetitivas con estas.
+
+* ¿Qué es la notación de puntos?
+  Explicación: forma de acceder a las propiedades de un objeto escribiendo un . y el nombre de 
+  la propiedad antes del nombre del objeto.
+  
+  Ejemplo:
+    persona.nombre 
+    En donde persona es el objeto y nombre es una propiedad
+
+  Cuando utilizamos la notación de puntos solo podremos acceder a las propiedades de un 
+  objeto escribiendo su nombre exacto.
+
+* ¿Qué es la notación de corchetes?
+  Explicación: forma de acceder a las propiedades de un objeto escribiendo el nombre de la 
+  propiedad entre corchetes y comillas.
+
+  Ejemplo:
+    persona["nombre"]
+    En donde persona es el objeto y nombre es una propiedad.
+
+  Cuando utilizamos la notación de corchetes además de poder acceder a las propiedades de 
+  un objeto escribiendo su nombre exacto, tambien podemos utilizar variables en las que 
+  previamente almacenemos una propiedad.
