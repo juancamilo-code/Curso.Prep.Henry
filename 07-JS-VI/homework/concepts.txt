@@ -1,4 +1,0 @@
-# Homework: JavaScript VI
-
-* ¿Qué es una Función Callback?
-  Explicación: una función callback es una función utilizada como parámetro en otra función. 
