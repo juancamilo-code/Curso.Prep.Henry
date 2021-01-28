@@ -1,0 +1,9 @@
+# Homework: JavaScript V
+
+* ¿Qué es `prototype`?
+  Explicación: el prototype es una propiedad de las clases que nos permite crear métodos y aplicarlos a 
+  diferentes instancias. 
+
+* ¿Qué es un _Constructors_?
+  Explicación: constructor es un método especial de las clases, este se utiliza para crear e inicializar 
+  objetos de esa clase.
